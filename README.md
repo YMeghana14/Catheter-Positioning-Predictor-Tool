@@ -32,8 +32,3 @@ The following project leverages the applications of Semantic Segmentation in acc
 - U-Net Architecture: [U-Net](https://arxiv.org/abs/1505.04597)
 - Canny Edge Detection: [Canny Edge](https://docs.opencv.org/master/da/d22/tutorial_py_canny.html)
 - Dataset: [Kaggle](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)
-
-## Authors
-
-- [Pranay Reddy](https://github.com/pranay-ar)
-- [Vipul Goel](https://github.com/deto-5420)
