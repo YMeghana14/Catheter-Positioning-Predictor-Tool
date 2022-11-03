@@ -4,7 +4,7 @@ The following project leverages the applications of Semantic Segmentation in acc
 
 ## Project Execution
 
-- Clone the project from `https://github.com/pranay-ar/Catheter-Positioning-Tool.git'`
+- Clone the project from `https://github.com/YMeghana14/Catheter-Positioning-Predictor-Tool.git'`
 - Create a `virtualenv` by executing the following command: `virtualenv -p python3 env`.
 - Activate the `env` virtual environment by executing the follwing command: `source env/bin/activate`.
 - Enter the cloned repository directory and execute `pip install -r requirements.txt`.
